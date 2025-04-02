@@ -1,1 +1,0 @@
-# CNN-Training-X-Ray-datasets
